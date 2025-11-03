@@ -71,6 +71,16 @@ An advanced, AI-powered penetration testing framework that integrates all major 
 
 ### Install Required Tools (Kali Linux)
 
+#### Option 1: Automated Installation (Recommended)
+
+```bash
+# Make script executable and run
+chmod +x install_tools.sh
+sudo ./install_tools.sh
+```
+
+#### Option 2: Manual Installation
+
 ```bash
 # Update system
 sudo apt update && sudo apt upgrade -y
