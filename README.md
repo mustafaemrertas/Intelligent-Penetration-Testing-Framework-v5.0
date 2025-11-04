@@ -466,20 +466,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This penetration testing framework is provided "as is" without warranty of any kind. Users are solely responsible for compliance with applicable laws and regulations.
 
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ultra-pentest-framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ultra-pentest-framework/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/ultra-pentest-framework/wiki)
-
 ## 🙏 Acknowledgments
 
 - Kali Linux team for providing excellent tools
 - OWASP community for security research
 - Open source security researchers worldwide
-
----
-
-**Made with ❤️ for the security community**
-
-*Stay secure, stay ethical*
